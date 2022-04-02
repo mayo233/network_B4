@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "inet.h": "c",
+        "http_client.h": "c",
+        "tcp_client.h": "c",
+        "http_server.h": "c"
+    }
+}
